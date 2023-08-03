@@ -1,3 +1,5 @@
+`cloudshell_open --repo_url "https://github.com/grkhr/tracking-proxy.git" --page "shell" --force_new_clone`
+
 # Nginx Proxy for Mixpanel
 An example nginx config that serves as a proxy to Mixpanel's Ingestion API and JavaScript library endpoints. To learn more, visit our [docs on Tracking via Proxy](https://docs.mixpanel.com/docs/tracking/how-tos/tracking-via-proxy).
 
